@@ -1,0 +1,9 @@
+Smart Contract Logic for QuantYogChain:
+
+1. Receive model update from node
+2. Verify model accuracy > threshold
+3. Check anomaly (outlier detection)
+4. Store hash of update in ledger
+5. Approve or reject update
+
+Note: This is a conceptual implementation inspired by Hyperledger Fabric.
