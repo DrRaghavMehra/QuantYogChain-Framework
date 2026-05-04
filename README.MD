@@ -44,3 +44,19 @@ This is a research prototype. Full deployment of blockchain is conceptual.
 Dr. Raghav Mehra  
 Chandigarh University  
 Vedanta AI Labs
+
+
+## 🧪 How to Run
+
+```bash
+python quantum_model/vqc_model.py
+python federated_learning/fl_simulation.py
+```
+
+## 📌 Reproducibility
+
+This repository provides a minimal working prototype of the QuantYogChain framework including:
+- Quantum ML simulation
+- Federated learning workflow
+- Biosignal feature extraction
+- Blockchain validation logic (conceptual)
