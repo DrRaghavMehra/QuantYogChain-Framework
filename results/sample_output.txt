@@ -1,0 +1,5 @@
+Experiment Completed
+Accuracy: 0.82
+
+Note: Results are from simulated dataset.
+Actual performance reported in paper uses WESAD and Sleep-EDF datasets.
